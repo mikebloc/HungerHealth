@@ -1,5 +1,4 @@
-# HungerHealth
-Minecraft plugin that ties health to hunger and hunger to health
+> Minecraft plugin that ties health to hunger and hunger to health
 
 - Consider [donating!](https://ko-fi.com/cutzuu)
 - Download [here!](https://modrinth.com/plugin/hungerhealth)
