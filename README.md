@@ -1,4 +1,9 @@
-> Minecraft plugin that ties health to hunger and hunger to health
+# 1.12.2 BRANCH
+## If you are looking for the latest MC version, please to return to the main branch.
+
+## 1.12.2 Notice
+If you are reading this, 1.12.2 version has not been uploaded yet.
+- Check below. Some features may be limited or missing from the main branch.
 
 - Consider [donating!](https://ko-fi.com/cutzuu)
 - Download [here!](https://modrinth.com/plugin/hungerhealth)
