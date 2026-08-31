@@ -10,4 +10,4 @@
 - Health will go up from eating but saturation is still set to zero.
 
 
-[All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation)
+[All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation/legal.md)
