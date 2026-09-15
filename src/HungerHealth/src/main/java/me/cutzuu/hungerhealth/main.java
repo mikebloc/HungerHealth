@@ -73,6 +73,18 @@ public final class main extends JavaPlugin implements Listener
         }
     }
 
+    @EventHandler(priority = EventPriority.HIGHEST)
+    public void playerExhaustion(EntityExhaustionEvent e)
+    {
+        Entity entity = e.getEntity();
+        if (entity instanceof Player)
+        {
+            Player player = (Player)e.getEntity();
+            if (Global.configToggleHardMode) player.setSaturation(0);
+        }
+
+    }
+
     // Force updates the player to have zero sat if hardmode is enabled.
     @EventHandler(priority = EventPriority.HIGHEST)
     public void playerRespawn(PlayerRespawnEvent e)

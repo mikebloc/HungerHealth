@@ -1,4 +1,4 @@
 name: HungerHealth
 version: '1.0.5'
 main: me.cutzuu.hungerhealth.main
-api-version: '1.12.2'
+api-version: '26.2'
