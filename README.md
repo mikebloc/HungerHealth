@@ -1,10 +1,5 @@
-# 1.12.2 BRANCH
-## If you are looking for the latest MC version, please to return to the main branch.
-
-## 1.12.2 Notice
-If you are reading this, 1.12.2 version has not been uploaded yet.
-- Check below. Some features may be limited or missing from the main branch.
-
+# 1.12 Branch
+> Legacy support. Has only been tested for 1.12.2 but should be compatible with 1.12.x
 - Consider [donating!](https://ko-fi.com/cutzuu)
 - Download [here!](https://modrinth.com/plugin/hungerhealth)
 
@@ -15,10 +10,4 @@ If you are reading this, 1.12.2 version has not been uploaded yet.
 - Health will go up from eating but saturation is still set to zero.
 
 
-## Copyright
-### Copyright (c) 2026 Cutzuu. All rights reserved except where explicitly granted.
-
-For permissions, inquiries, or notices, contact the Copyright Holder at: 
-- x.com/cutzuuYT
-
-Full Copyright details and EULA can be found [here.](https://github.com/cutzuu/.github/tree/main/documentation)
+[All rights reserved. Mike Bloc](https://github.com/mikebloc/.github/tree/main/documentation/legal.md)
