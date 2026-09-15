@@ -1,9 +1,5 @@
-# 1.16.5 BRANCH
-## If you are looking for the latest MC version, please to return to the main branch.
-
-## 1.16.5 Notice
-If you are reading this, 1.16.5 version has not been uploaded yet.
-- Check below. Some features may be limited or missing from the main branch.
+# 1.16.5(LTS) Branch
+> Built on 1.16.5 API but supports 1.16 to 26.3
 
 - Consider [donating!](https://ko-fi.com/cutzuu)
 - Download [here!](https://modrinth.com/plugin/hungerhealth)
